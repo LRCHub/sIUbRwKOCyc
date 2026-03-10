@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Love Story",
+  "base_artist": "竹中雄大",
+  "createdAt": "2026-03-10T07:55:58.574134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Greatest Love Story",
+      "artist": "LANCO",
+      "has_synced": true,
+      "path": "select/01_Greatest_Love_Story_LANCO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Story (Taylor's Version) - Elvira Remix",
+      "artist": "Taylor Swift feat. ELVIRA",
+      "has_synced": true,
+      "path": "select/05_Love_Story_(Taylor's_Version)_-_Elvira_Remix_Taylor_Swift_feat._ELVIRA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Story (Taylor's Version) (Elvira Remix)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Love_Story_(Taylor's_Version)_(Elvira_Remix)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_Love_Story_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Deltron 3030",
+      "has_synced": false,
+      "path": "select/08_Love_Story_Deltron_3030.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Deltron 3030",
+      "has_synced": true,
+      "path": "select/09_Love_Story_Deltron_3030.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Novembre",
+      "has_synced": false,
+      "path": "select/10_Love_Story_Novembre.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Great Love Story",
+      "artist": "New Years Day",
+      "has_synced": true,
+      "path": "select/11_Last_Great_Love_Story_New_Years_Day.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Tanita Tikaram",
+      "has_synced": false,
+      "path": "select/12_Love_Story_Tanita_Tikaram.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/13_Love_Story_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Story (BBC sessions)",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/14_Love_Story_(BBC_sessions)_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Story (mono)",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/15_Love_Story_(mono)_Jethro_Tull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Story",
+      "artist": "竹中雄大",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Story_竹中雄大.txt"
+    }
+  ]
+}
